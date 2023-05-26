@@ -77,7 +77,7 @@ For additional information, check out [this article on getting started with data
 ## SQLite VSCode Extension
 
 To make it easier to interact with SQLite databases from VSCode, you should also
-install the [SQLite VSCode Extension][sqlite vscode].
+install the [][sqlite vscode].
 
 This will give you a graphical interface where you can interact with SQLite
 databases without leaving VSCode! It's a great way to help visualize what's
